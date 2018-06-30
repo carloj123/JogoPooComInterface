@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.effect.ImageInput?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="337.0" prefWidth="565.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="347.0" fitWidth="600.0" layoutX="-1.0" layoutY="-7.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@prisao.png" />
+         </image>
+      </ImageView>
+      <Button layoutX="6.0" layoutY="359.0" mnemonicParsing="false" prefHeight="32.0" prefWidth="157.0" text="Abrir baú">
+         <effect>
+            <ImageInput />
+         </effect>
+      </Button>
+      <Button fx:id="BTSalaEscura" layoutX="456.0" layoutY="291.0" mnemonicParsing="false" text="Sombras" AnchorPane.bottomAnchor="20.0" AnchorPane.leftAnchor="456.0" AnchorPane.rightAnchor="33.0" AnchorPane.topAnchor="291.0" />
+      <TextArea fx:id="AreaDeTexto" layoutX="8.0" layoutY="283.0" prefHeight="56.0" prefWidth="302.0" promptText="Bem-vinda, pessoa! Você está no seu quarto quentinho. Não saia e se comporte direitinho!!!" AnchorPane.bottomAnchor="-2.0" AnchorPane.leftAnchor="8.0" AnchorPane.rightAnchor="255.0" AnchorPane.topAnchor="283.0" />
+   </children>
+</AnchorPane>

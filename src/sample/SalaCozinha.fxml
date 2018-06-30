@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="394.0" prefWidth="501.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fx:id="imagemCozinha" fitHeight="334.0" fitWidth="508.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="60.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="-7.0" AnchorPane.topAnchor="0.0">
+         <image>
+            <Image url="@Cozinha.png" />
+         </image>
+      </ImageView>
+      <TextArea fx:id="AreaTexto" layoutY="333.0" prefHeight="63.0" prefWidth="501.0" promptText="Você pode encontrar coisas Uteis nessa área" />
+      <Button fx:id="BTCorredor" layoutX="14.0" layoutY="272.0" mnemonicParsing="false" text="Corredor" AnchorPane.bottomAnchor="96.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="411.0" AnchorPane.topAnchor="272.0" />
+   </children>
+</AnchorPane>
