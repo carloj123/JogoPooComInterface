@@ -2,49 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Engine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Ferramenta.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Ferramentas/Chave.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Ferramentas/Dreno.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Ferramentas/Extintor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Ferramentas/Lanterna.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Ferramentas/LockPick.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Ferramentas/LuvasDeBorracha.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Mochila.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Objeto.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Objetos/Agua.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Objetos/Bau.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Objetos/Cela.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Objetos/CofreEletrocutado.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Objetos/Escuridao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Objetos/Fogo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Objetos/Porta.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Personagem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Sala.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Salas/Corredor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Salas/Prisao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Salas/PrisaoTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Salas/SalaDoCofre.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Salas/SalaEmChamas.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Salas/SalaEscura.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Salas/SalaInundada.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/jogoTeste/sample/Controller.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/jogoTeste/sample/Main.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jogoTeste.iml" afterPath="$PROJECT_DIR$/jogoTeste.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/jogoTeste/sample/janelaInicial.fxml" afterPath="$PROJECT_DIR$/out/production/jogoTeste/sample/janelaInicial.fxml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/jogoTeste/sample/salaPrisao.fxml" afterPath="$PROJECT_DIR$/out/production/jogoTeste/sample/salaPrisao.fxml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/jogoTeste/sample/sample.fxml" afterPath="$PROJECT_DIR$/out/production/jogoTeste/sample/sample.fxml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sample/Controller.java" afterPath="$PROJECT_DIR$/src/sample/Controller.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sample/IntreracaoCofre.fxml" afterPath="$PROJECT_DIR$/src/sample/IntreracaoCofre.fxml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sample/SalaCozinha.fxml" afterPath="$PROJECT_DIR$/src/sample/SalaCozinha.fxml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sample/SalaInundada.fxml" afterPath="$PROJECT_DIR$/src/sample/SalaInundada.fxml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sample/interacaoComBau.fxml" afterPath="$PROJECT_DIR$/src/sample/interacaoComBau.fxml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sample/janelaInicial.fxml" afterPath="$PROJECT_DIR$/src/sample/janelaInicial.fxml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sample/salaCorredor.fxml" afterPath="$PROJECT_DIR$/src/sample/salaCorredor.fxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sample/Engine.java" afterPath="$PROJECT_DIR$/src/sample/Engine.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sample/salaEmChamas.fxml" afterPath="$PROJECT_DIR$/src/sample/salaEmChamas.fxml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sample/salaPrisao.fxml" afterPath="$PROJECT_DIR$/src/sample/salaPrisao.fxml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sample/sample.fxml" afterPath="$PROJECT_DIR$/src/sample/sample.fxml" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -102,24 +62,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="salaPrisao.fxml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sample/salaPrisao.fxml">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="245" lean-forward="false" selection-start-line="12" selection-start-column="245" selection-end-line="12" selection-end-column="245" />
-              <folding />
+            <state relative-caret-position="180">
+              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
-          <provider editor-type-id="JavaFX-Scene-Builder">
-            <state />
+        </entry>
+      </file>
+      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Engine.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sample/Engine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1026">
-              <caret line="57" column="16" lean-forward="false" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
+            <state relative-caret-position="1182">
+              <caret line="112" column="0" lean-forward="true" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -132,7 +105,9 @@
           <provider editor-type-id="text-editor">
             <state relative-caret-position="144">
               <caret line="8" column="244" lean-forward="false" selection-start-line="8" selection-start-column="244" selection-end-line="8" selection-end-column="244" />
-              <folding />
+              <folding>
+                <marker date="1530417780186" expanded="true" signature="885:946" ph="..." />
+              </folding>
             </state>
           </provider>
           <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
@@ -155,13 +130,13 @@
       </file>
       <file leaf-file-name="salaCorredor.fxml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sample/salaCorredor.fxml">
-          <provider selected="true" editor-type-id="text-editor">
+          <provider editor-type-id="text-editor">
             <state relative-caret-position="144">
               <caret line="8" column="244" lean-forward="false" selection-start-line="8" selection-start-column="244" selection-end-line="8" selection-end-column="244" />
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="JavaFX-Scene-Builder">
+          <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
             <state />
           </provider>
         </entry>
@@ -176,16 +151,6 @@
           </provider>
           <provider editor-type-id="JavaFX-Scene-Builder">
             <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sala.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sample/Sala.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-618">
-              <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-              <folding />
-            </state>
           </provider>
         </entry>
       </file>
@@ -217,7 +182,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="interacaoComBau.fxml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="interacaoComBau.fxml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sample/interacaoComBau.fxml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
@@ -274,17 +239,17 @@
         <option value="$PROJECT_DIR$/src/sample/Salas/SalaEmChamas.java" />
         <option value="$PROJECT_DIR$/src/sample/Salas/SalaEscura.java" />
         <option value="$PROJECT_DIR$/src/sample/Salas/SalaInundada.java" />
-        <option value="$PROJECT_DIR$/src/sample/Engine.java" />
         <option value="$PROJECT_DIR$/src/sample/sample.fxml" />
         <option value="$PROJECT_DIR$/src/sample/janelaInicial.fxml" />
-        <option value="$PROJECT_DIR$/src/sample/Controller.java" />
-        <option value="$PROJECT_DIR$/src/sample/salaEmChamas.fxml" />
         <option value="$PROJECT_DIR$/src/sample/salaPrisao.fxml" />
         <option value="$PROJECT_DIR$/src/sample/SalaInundada.fxml" />
         <option value="$PROJECT_DIR$/src/sample/SalaCozinha.fxml" />
         <option value="$PROJECT_DIR$/src/sample/salaCorredor.fxml" />
         <option value="$PROJECT_DIR$/src/sample/IntreracaoCofre.fxml" />
         <option value="$PROJECT_DIR$/src/sample/interacaoComBau.fxml" />
+        <option value="$PROJECT_DIR$/src/sample/salaEmChamas.fxml" />
+        <option value="$PROJECT_DIR$/src/sample/Engine.java" />
+        <option value="$PROJECT_DIR$/src/sample/Controller.java" />
       </list>
     </option>
   </component>
@@ -513,12 +478,12 @@
       <option name="presentableId" value="Default" />
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
-      <workItem from="1530391008270" duration="10600000" />
+      <workItem from="1530391008270" duration="12095000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11902000" />
+    <option name="totallyTimeSpent" value="13397000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
@@ -604,7 +569,7 @@
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
             <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -821,41 +786,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/Sala.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-618">
           <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Engine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="57" column="16" lean-forward="false" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -881,29 +816,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/salaEmChamas.fxml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="244" lean-forward="false" selection-start-line="8" selection-start-column="244" selection-end-line="8" selection-end-column="244" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/SalaCozinha.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="244" lean-forward="false" selection-start-line="8" selection-start-column="244" selection-end-line="8" selection-end-column="244" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/salaCorredor.fxml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="244" lean-forward="false" selection-start-line="8" selection-start-column="244" selection-end-line="8" selection-end-column="244" />
@@ -947,6 +860,62 @@
       </provider>
       <provider editor-type-id="JavaFX-Scene-Builder">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/salaCorredor.fxml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="244" lean-forward="false" selection-start-line="8" selection-start-column="244" selection-end-line="8" selection-end-column="244" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/salaEmChamas.fxml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="244" lean-forward="false" selection-start-line="8" selection-start-column="244" selection-end-line="8" selection-end-column="244" />
+          <folding>
+            <marker date="1530417780186" expanded="true" signature="885:946" ph="..." />
+          </folding>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Engine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1182">
+          <caret line="112" column="0" lean-forward="true" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>

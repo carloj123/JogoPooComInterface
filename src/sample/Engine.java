@@ -2,6 +2,7 @@ package sample;
 
 import java.util.Scanner;
 
+import javafx.scene.control.Alert;
 import sample.*;
 import sample.Salas.*;
 
@@ -102,7 +103,7 @@ public class Engine {
 
 
     private void fimDeJogo() {
-        Alert alert = new Alert(AlertType.INFORMATION);
+        Alert alert = new Alert(Alert.AlertType.INFORMATION);
         alert.setTitle("Fim de jogo !!");
         alert.setHeaderText("Parabéns !!");
         alert.setContentText("Você conseguiu abrir o cofre !!\nFIM DE JOGO");
