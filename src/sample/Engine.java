@@ -1,5 +1,6 @@
 package sample;
 
+import javafx.scene.control.Alert;/*
 import java.util.Scanner;
 
 import javafx.scene.control.Alert;
@@ -108,5 +109,5 @@ public class Engine {
         alert.setHeaderText("Parabéns !!");
         alert.setContentText("Você conseguiu abrir o cofre !!\nFIM DE JOGO");
         alert.showAndWait();
-    }
-}
+    }}*/
+
